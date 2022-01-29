@@ -16,14 +16,25 @@ Welcome to the README of PacmanGame, a recreation of the nostalgic video game fr
 3. Make sure you use `Debug x64`. Otherwhise compilation error may appear
 4. Run the game and enjoy!
 
-## Demo
-Following a small `.gif` showing the functionality of the game and a class diagram (right) explaining the main features that went into this project.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/70687643/151678772-d06a708e-37d0-4267-b599-2a5b26cd513b.gif" width =350">
-</p>
-
+## Class Diagram
+The following diagram explains the main classes that were implemented during this project:
+> Here a shortly explanation how the project was composed
+```
+resources  contains the sprite sheet.
+src        contains the C++ source + skeleton main file.
+include    contains C++ header files.
+```
 <p align="center">
 <img src="https://user-images.githubusercontent.com/70687643/151679840-1eaf173c-ec47-484d-a002-9551cc58b494.png" width =600">
 </p>
+
+## Demo
+A small `.gif` showing the functionality of the game
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/70687643/151680444-1df6dc7d-6d43-43ba-88b8-0f4118dd2872.png" width =575">
+<img src="https://user-images.githubusercontent.com/70687643/151678772-d06a708e-37d0-4267-b599-2a5b26cd513b.gif" width =350">
+</p>
+
+
 

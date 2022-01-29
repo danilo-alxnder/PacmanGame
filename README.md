@@ -29,7 +29,7 @@ include    contains C++ header files.
 </p>
 
 ## Demo
-To the left the `.bmp` figures that make up the design. To the right, a small `.gif` showing the functionality of the game.
+To the left, the `.bmp` figures that made up the design of the game. To the right, a small `.gif` showing a demo of the features implemented.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/70687643/151680444-1df6dc7d-6d43-43ba-88b8-0f4118dd2872.png" width =460">

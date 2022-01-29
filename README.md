@@ -32,8 +32,8 @@ include    contains C++ header files.
 A small `.gif` showing the functionality of the game
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/70687643/151680444-1df6dc7d-6d43-43ba-88b8-0f4118dd2872.png" width =425">
-<img src="https://user-images.githubusercontent.com/70687643/151678772-d06a708e-37d0-4267-b599-2a5b26cd513b.gif" width =375">
+<img src="https://user-images.githubusercontent.com/70687643/151680444-1df6dc7d-6d43-43ba-88b8-0f4118dd2872.png" width =350">
+<img src="https://user-images.githubusercontent.com/70687643/151678772-d06a708e-37d0-4267-b599-2a5b26cd513b.gif" width =275">
 </p>
 
 

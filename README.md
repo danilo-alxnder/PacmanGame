@@ -21,6 +21,9 @@ Following a small `.gif` showing the functionality of the game and a class diagr
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/70687643/151678772-d06a708e-37d0-4267-b599-2a5b26cd513b.gif" width =350">
+</p>
+
+<p align="center">
 <img src="https://user-images.githubusercontent.com/70687643/151679840-1eaf173c-ec47-484d-a002-9551cc58b494.png" width =600">
 </p>
 

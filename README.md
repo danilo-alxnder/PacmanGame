@@ -10,6 +10,7 @@ Welcome to the README of PacmanGame, a fully distributed multi-hop ad-hoc chat a
 * The application interface requires you to input `username`
 
 
+
 ### Running the application
 1. To run ScubaChat you need an IDE. In this project, Visual Studio was used.
 2. In your project include all folders of this repository
@@ -17,18 +18,10 @@ Welcome to the README of PacmanGame, a fully distributed multi-hop ad-hoc chat a
 4. In main.cpp make sure you include this number in `FREQUENCY`
 
 ## Demo
-When properly installed, run the code and type the name of the user. You will see per each nickname a circle would be created in the server.
-When sending messages, a sphere around the user will light up and  show its recheability to other users:
+
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/70687643/151673074-73f4fbf2-9531-4a96-8fd8-9839f1d09e94.png" width ="500">
+<img src="https://user-images.githubusercontent.com/70687643/151678772-d06a708e-37d0-4267-b599-2a5b26cd513b.gif" width =300">
+<img src="https://user-images.githubusercontent.com/70687643/151679840-1eaf173c-ec47-484d-a002-9551cc58b494.png" width =600">
 </p>
 
-In windows terminal, you can see a demostration when 3 users (Danilo, Hussain & Pepito) are talking.
-- From left to righ, the sms send by each user is shown in each window.
-- While sending messages, the forwarding table fills up and shows the code use to refer each username.
-- When coallision is encounter first come first serve.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/70687643/151674647-643d7b19-3894-4ae4-895f-a33981bc8cf9.png" width ="950">
-</p>

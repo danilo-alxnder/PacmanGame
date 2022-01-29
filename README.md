@@ -20,7 +20,7 @@ Welcome to the README of PacmanGame, a recreation of the nostalgic video game fr
 Following a small `.gif` showing the functionality of the game and a class diagram (right) explaining the main features that went into this project.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/70687643/151678772-d06a708e-37d0-4267-b599-2a5b26cd513b.gif" width =300">
-<img src="https://user-images.githubusercontent.com/70687643/151679840-1eaf173c-ec47-484d-a002-9551cc58b494.png" width =600">
+<img src="https://user-images.githubusercontent.com/70687643/151678772-d06a708e-37d0-4267-b599-2a5b26cd513b.gif" width =250">
+<img src="https://user-images.githubusercontent.com/70687643/151679840-1eaf173c-ec47-484d-a002-9551cc58b494.png" width =700">
 </p>
 

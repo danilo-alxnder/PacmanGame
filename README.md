@@ -29,7 +29,7 @@ include    contains C++ header files.
 </p>
 
 ## Demo
-A small `.gif` showing the functionality of the game
+To the left the `.bmp` gifures that make up the game. To the right, a small `.gif` demo showing the functionality of Pacman.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/70687643/151680444-1df6dc7d-6d43-43ba-88b8-0f4118dd2872.png" width =460">

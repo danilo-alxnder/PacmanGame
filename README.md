@@ -12,8 +12,8 @@ Welcome to the README of PacmanGame, a recreation of the nostalgic video game fr
 
 ### Running the application
 1. To run PacmanGame you need to install [SDL2](https://www.libsdl.org/) starter kit toguether with an IDE. 
-2. Clone this repository and open `pacman.sln`
-3. Make sure you use `Debug x64`. Otherwhise compilation error may appear
+2. Clone this repository and open `pacman.sln`.
+3. Make sure you use `Debug x64`. Otherwhise compilation error may appear.
 4. Run the game and enjoy!
 
 ## Class Diagram
